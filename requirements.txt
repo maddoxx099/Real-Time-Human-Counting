@@ -1,0 +1,19 @@
+libraries used :
+		 tkinter
+		 messagebox
+		 PIL
+		 cv2
+		 opencv
+		 argparse
+	       	 matplotlib.pyplot
+numpy~=1.23.5
+		 time
+		 os
+tensorflow~=2.10.0
+fpdf~=1.7.2
+matplotlib~=3.6.2
+pillow~=9.3.0
+opencv-python~=4.7.0.68
+imutils~=0.5.4
+customtkinter~=5.0.4
+tkvideoplayer~=2.3
